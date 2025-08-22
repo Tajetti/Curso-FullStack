@@ -12,3 +12,5 @@ console.log(cartaoMascarado)
 let inicioMascarado = ultimosDigitos.padEnd(cartaoCredito.length, "X")
 // inicioMascarado = 4928xxxxxxxxxxxx
 console.log(inicioMascarado)
+
+//padStart("Esse valor é o limite que terá de caracteres", "Esse é o caractere que irá ser adicionado")
