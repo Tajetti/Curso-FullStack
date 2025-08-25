@@ -1,1 +1,1 @@
-# Código do Curso Full-stack da rocketseat
+# Código do Curso Full-stack
