@@ -6,7 +6,6 @@ function criarProduto(nome, descricao) {
     produto.exibirProduto = function(){
         console.log(`Seu produto: ${this.nome} e a descrição do seu produto é: ${this.descricao}`)
     }
-
     return produto
 }
 
